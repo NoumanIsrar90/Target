@@ -1,0 +1,16 @@
+body {
+background-color:rgb(100, 220, 243) ; 
+}
+#navbar{
+   background-color: rgb(41, 4, 30); 
+   height: 40px;
+}
+.space{
+    color: white;
+    padding-right: 250px;
+
+}
+#go{
+    padding-right: 250px;
+color: white;
+}
